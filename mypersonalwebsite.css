@@ -1,0 +1,182 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+body{
+  color:#07023a;
+  font-size:20px;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+
+}
+.middle-container{
+  margin:100px auto;
+}
+.high_container{
+
+  background-color:#BAFFFA;
+
+}
+
+.pro{
+
+  display:inline;
+  text-decoration:underline;
+}
+h1{
+  line-height: 2;
+  margin:5px auto 0 auto;
+
+
+
+  font-size:5.62rem;
+    font-family: 'Sacramento', cursive;
+
+display: block;
+
+  padding-top:120px;
+}
+h2{
+
+  padding:5px;
+  margin-top:10px;
+  font-size:2.5rem;
+
+
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  padding-top:15px;
+  margin:10px;
+}
+p{
+  line-height: 30px;
+  font-family:sans-serif;
+  font-style:oblique;
+}
+
+
+
+
+.top-cloud{
+
+
+
+  position:absolute;
+  top:45px;
+  right:280px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:280px;
+}
+.myprofileicture{
+  width:300px;
+
+}
+a{
+text-decoration:none;
+}
+h1,h2{
+  color:#66BFBF;
+}
+h3{
+  font-size:1.35rem;
+  color:#11999E;
+}
+ a{
+  color:#11999E;
+}
+.high_container h2{
+  font-weight:normal;
+}
+.skill-row{
+
+  width:50%;
+  text-align: left;
+  line-height:2;
+  margin:100px auto 100px auto;
+
+}
+.skillimage1{
+
+  margin-right:30px;
+  width:25%;
+  float:left;
+}
+.profile{
+  padding-top:50px;
+}
+.skillimage{
+  width:25%;
+float:right;
+  margin-left:30px;
+
+}
+.skilldescription1{
+  clear:left;
+}
+.skilldescription2{
+  clear:right;
+}
+.space{
+  height: 10px;
+}
+hr{
+
+  border:2px solid #EAF6F6;
+  width:35%;
+  margin:5px auto 5px auto;
+}
+.buttonc{
+  margin:50px auto 20px auto;
+}
+button{
+  color:black;
+  width:25%;
+  height:45px;
+  border-radius:15px;
+font-size: 16px;
+font-weight: bold;
+background-color:#11999E;
+border:0;
+
+}
+.btn{
+  color:white;
+}
+
+#endh2{
+  margin-bottom: 50px;
+}
+.bottom-container{
+  margin-top:50px;
+  color:white;
+  background-color: #06a5ab9c;
+height:150px;
+}
+.footer-link{
+  font-size: 20px;
+  margin-left:30px;
+}
+#footerp{
+  margin-top:30px;
+}
+.bottom-container>h3{
+  margin-top:25px;
+}
+button:hover{
+  letter-spacing: 3px;
+  opacity: 0.8;
+  color:gold;
+
+
+}
+button:focus{
+  color:gold;
+}
+a:hover{
+  color:gold;
+  font-weight:bold;
+}
